@@ -1,0 +1,18 @@
+---
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: "1.0.0"
+readme: README.md
+authors:
+  - Eugenie Kotukov
+description: A custom text file module and a role using it
+license:
+  - GPL-3.0-or-later
+tags:
+  - files
+dependencies: {}
+repository: https://github.com/beeasierbebetter/my_own_collection
+build_ignore:
+  - "*.tar.gz"
+  - screenshots
+  - HOMEWORK.md
